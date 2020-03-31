@@ -1,7 +1,13 @@
 #ifndef LAB3_PRIORITY_QUEUE_HPP
 #define LAB3_PRIORITY_QUEUE_HPP
 #include <string>
+
 using namespace std;
+
+// Lab Assignment 3:
+//    Group #28
+//    Kate Harvey, ID# 20829173
+//    Jessica Lui, ID# 20837325
 
 // PURPOSE: Models a Priority Queue of Task Items
 class PriorityQueue { 

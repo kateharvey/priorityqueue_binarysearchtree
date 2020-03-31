@@ -5,6 +5,11 @@
 
 using namespace std;
 
+// Lab Assignment 3:
+//    Group #28
+//    Kate Harvey, ID# 20829173
+//    Jessica Lui, ID# 20837325
+
 // PURPOSE: Models a Binary Search Tree of Task Items
 class BinarySearchTree {
 protected:
